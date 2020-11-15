@@ -1,0 +1,4 @@
+export const TICKETREORDER = "TICKET-REORDER";
+export const CHANGECOLUMN = "CHANGE-COLUMN";
+export const ADDTICKET = "ADDTICKET";
+export const UPDATETICKET = "UPDATETICKET";
